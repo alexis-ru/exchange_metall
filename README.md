@@ -14,16 +14,6 @@
 |  31.08.2022   | 3 398,9400         | 37,2900  | 1 702,1400     | 4 178,6800  |
 
 
-<pre lang="no-highlight"><code>```javascript
-var s = "Подсветка JavaScript";
-alert(s);
-```
- 
-```python
-s = "Подсветка Python"
-print s
-```
-
 
 Данное ПО написано на:
 
